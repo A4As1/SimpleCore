@@ -2,7 +2,7 @@ SimpleCore made by A4As
 (This is my first Plugin made in few Hours.)
 
 Features
-✔️ Fun Events
+✔️ Fun Events 
 ✔️ Simple Commands
 ✔️ Join Messages
 ✔️ Leave Messages
