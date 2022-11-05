@@ -1,0 +1,19 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: me.a4as.myfirstplugin.MyFirstPlugin
+api-version: 1.15
+authors: [ A4As ]
+description: Hello! I am A4As and this is my first Plugin!
+website: https://a4aslovesvamp.xyz/
+commands:
+  rip:
+    description: Kills a player
+    usage: /<command>
+  god:
+    description: Become invincible
+    usage: /<command>
+  feed:
+    description: Get feed without eating food
+    usage: /<command>
+    aliases:
+      - freefood
